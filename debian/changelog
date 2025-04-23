@@ -1,0 +1,51 @@
+ros-kilted-twist-mux-msgs (3.0.1-3bookworm) bookworm; urgency=high
+
+  * Updates for releasing (#3 <https://github.com/ros-teleop/twist_mux_msgs/issues/3>)
+    * Add LICENSE file and update license to apache v2
+    * Add contributing file
+  * Contributors: Bence Magyar
+
+ -- Bence Magyar <bence.magyar.robotics@gmail.com>  Mon, 03 Jul 2023 05:00:00 -0000
+
+ros-kilted-twist-mux-msgs (3.0.0-3bookworm) bookworm; urgency=high
+
+  * Migrate to ROS2 (#2 <https://github.com/ros-teleop/twist_mux_msgs/issues/2>)
+  * Contributors: Victor Lopez, Noel Jimenez, Bence Magyar
+
+ -- Bence Magyar <bence.magyar.robotics@gmail.com>  Thu, 04 May 2023 05:00:00 -0000
+
+ros-kilted-twist-mux-msgs (2.1.0-3bookworm) bookworm; urgency=high
+
+
+
+ -- Bence Magyar <bence.magyar.robotics@gmail.com>  Mon, 25 Jun 2018 05:00:00 -0000
+
+ros-kilted-twist-mux-msgs (2.0.0-3bookworm) bookworm; urgency=high
+
+  * Update README.md
+    Add documentation link and build status.
+  * Contributors: Enrique Fernández Perdomo
+
+ -- Bence Magyar <bence.magyar.robotics@gmail.com>  Tue, 12 Jul 2016 05:00:00 -0000
+
+ros-kilted-twist-mux-msgs (1.0.0-3bookworm) bookworm; urgency=high
+
+
+
+ -- Bence Magyar <bence.magyar.robotics@gmail.com>  Fri, 22 May 2015 05:00:00 -0000
+
+ros-kilted-twist-mux-msgs (0.1.0-3bookworm) bookworm; urgency=high
+
+  * Update maintainer email
+  * Contributors: Enrique Fernandez
+
+ -- Bence Magyar <bence.magyar.robotics@gmail.com>  Sat, 04 Apr 2015 05:00:00 -0000
+
+ros-kilted-twist-mux-msgs (0.0.1-3bookworm) bookworm; urgency=high
+
+  * Add twist_mux msgs
+  * Contributors: Enrique Fernandez, Siegfried Gevatter, Paul Mathieu
+
+ -- Bence Magyar <bence.magyar.robotics@gmail.com>  Thu, 13 Nov 2014 06:00:00 -0000
+
+
